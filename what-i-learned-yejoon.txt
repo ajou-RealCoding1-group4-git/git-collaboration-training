@@ -1,0 +1,3 @@
+I think today lesson was little bit fast for me.
+Because I think git is hard T_T
+Today, I learned about git command(git push, git remote etc.) .
