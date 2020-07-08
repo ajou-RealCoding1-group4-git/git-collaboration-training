@@ -11,3 +11,7 @@ jihun:
 yejoon:
 - good personaility
 - little bit fast for me T_T
+
+soy:
+- a little hard to practice alone
+- detail explanation
