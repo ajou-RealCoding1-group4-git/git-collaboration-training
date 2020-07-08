@@ -1,0 +1,7 @@
+What I Learned:
+I learned to use git as a collaboration tool.
+I was able to learn the basic process of making commits which are the building blocks that consist a project.
+I also learned how to make branches and pull requests which makes git a "version control" tool.
+
+What I Felt:
+It's easy to make commits, but managing multiple branches with teammates looks a bit difficult. I should try to make habit of git to get used to it.
